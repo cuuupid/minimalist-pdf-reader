@@ -7,7 +7,7 @@ Extremely lightweight, prettier icon for PDF than normal.
 ## Prerequisites
 
 - ElectronJS > 1.6.4, `npm install electron --global`
-- (Node)[https://nodejs.org] > 1.8
+- [Node](https://nodejs.org) > 1.8
 - Electron Local Shortcut, `npm install electron-localshortcut`
 
 ## Usage
